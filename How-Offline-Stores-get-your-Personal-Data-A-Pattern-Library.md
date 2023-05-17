@@ -1,9 +1,9 @@
----
+```
 created: 2023-05-17T01:24:48 (UTC -07:00)
 source: https://khattamicah.xyz/how-offline-stores-get-your-personal-data-a-pattern-library
 what: a collection of stories around privacy creeping by physical stores in non-western countries
 who: anyone with experience
----
+```
 
 # How Offline Stores get your Personal Data - A Pattern Library — the sourness of study - khattamicah.xyz/
 
