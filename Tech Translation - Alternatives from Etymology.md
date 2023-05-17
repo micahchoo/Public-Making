@@ -25,6 +25,8 @@ Similarly, for the concept of "drag and drop," we might look for words or phrase
 
 ---
 
+[Download CSV](Tech%20terms.csv)
+
 | Term | Etymology of the words being used | Linguistic and functional Connection of word to artifact/phenomenon |
 | --- | --- | --- |
 | Zip Bomb | The term is derived from the popular file compression format "zip" and the term "bomb" which in computing often refers to something that causes disruption. | A Zip Bomb is a malicious archive file designed to crash or render useless the program or system reading it, much like a 'bomb'. |
