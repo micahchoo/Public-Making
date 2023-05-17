@@ -1,0 +1,232 @@
+Word,Type,Importance (1-5),Transliterated Kannada(Banglorey),Transliterated Marathi(Pune-y),Transliterated Hindi (maharashtraey),Transliterated Malayalam (kottayam-alleppey)
+0,Number,1,manushya,maanoos,aadmi,manushyan
+1,Number,1,ondu,ek,ek,onnu
+2,Number,1,eradu,don,do,randu
+3,Number,1,mūru,teen,teen,moonnu
+4,Number,1,nālku,char,chaar,nalu
+5,Number,1,aidu,panch,paanch,anchu
+6,Number,1,āru,saha,che,aaru
+7,Number,1,ēlu,saat,saat,ēzhu
+8,Number,1,ēnṭu,aath,aath,ēttu
+9,Number,1,ombattu,nau,nau,onpathu
+10,Number,1,hatthu,dass,das,pathu
+11,Number,1,hannondhu,gyaarah,gyarah,pathinonnu
+12,Number,1,barondhu,baraah,bara,panninu
+13,Number,1,terondhu,terah,tera,pambil
+14,Number,1,hombardu,chaudah,chaudah,pathinettu
+15,Number,1,hadimēy,pandrah,pandrah,pathinayiram
+16,Number,1,hadinondu,solah,solah,pathonnu
+17,Number,1,hadieradu,satrah,satrah,patthu
+18,Number,1,hadimūru,atharah,atharah,pattambi
+19,Number,1,hadinālku,unnis,unnis,pathimoonu
+20,Number,1,yāvanu,bees,bees,irupathu
+man,Person,1,manushya,man,aadmi,manushyan
+woman,Person,1,hennu,stree,aurat,pennu
+brother,Person,1,aṇṇa,bhau,bhai,chettan
+sister,Person,1,tangi,bahin,behan,chechi
+family,Person,1,kutumba,kutumb,parivar,kudumbam
+husband,Person,1,ganda,navara,pati,bharya
+wife,Person,1,wife,bai,patni,bharya
+boy,Person,1,huduga,mulga,ladka,mone
+girl,Person,1,hudugi,mulgi,ladki,pennu
+child,Person,1,makkala,mulancha,bachcha,makal
+man,Person,1,manushya,man,aadmi,manushyan
+Home,Physical Structure,1,mane,ghar,ghar,veedu
+office,Physical Structure,1,kacheri,office,office,office
+money,Things,1,rūpāyi,paisa,paise,vila
+coins,Things,1,mudalū,sikke,sikke,rūpālu
+change,Things,1,badalī,badali,badal,parivarthanam
+notes,Things,1,note,note,note,vēlika
+city,Physical Structure,1,nagara,shahar,shahar,nagaram
+road,Physical Structure,1,rāsta,rasta,sadak,rōdu
+morning,Time,1,beligge,pratah,subah,prabhātham
+afternoon,Time,1,madhyāhana,dopahar,dopahar,madyahnathil
+evening,Time,1,sāyāmkaal,sandhyakāl,sham,sayam
+night,Time,1,raatri,raat,raat,raatri
+To want,Verb,1,beVike,ichha,chahna,varum
+To need,Verb,1,beVada,avashyakta,zaroorat,avashyamundu
+To buy,Verb,1,kharidu,kharid,kharidna,vangikkanam
+To sell,Verb,1,māru,vikri,bechna,vikkanam
+To give,Verb,1,kodu,dyā,dena,kodukkanam
+To Take,Verb,1,tegeduko,ghe,lena,edukkanam
+To use,Verb,1,Upayogisu,upayog kara,istemal karna,upayogikkam
+To work,Verb,1,kelsa mADu,kām kara,kaam karna,kazhichu
+who,questions,1,yaaru,kon,kaun,aara
+what,questions,1,enu,kay,kya,enthina
+where,questions,1,elli,kuthe,kahaan,evide
+why,questions,1,yaake,kaRaNa,kyun,enniku endina
+when,questions,1,yāvaga,kāl,kab,eppōl
+how,questions,1,hegide,kashe,kaise,evideya
+21,Number,2,ipapattu,ikkīs,ikkis,ippathu
+22,Number,2,ibbattu,bāvīs,bāvish,iruppathu
+30,Number,2,mūvu,tis,tis,muppathu
+31,Number,2,ondu hattu,ikkīs,ikkis,onpathu-muppathu
+32,Number,2,eradu hattu,bāvīs,bāvish,randu-muppathu
+40,Number,2,nalavattu,chālīs,chālīs,nalpathu
+41,Number,2,nalavattu ondu,ikattīs,ikattīs,nalpathu-onpathu
+42,Number,2,nalavattu eradu,bāvīstīs,bāvīstīs,nalpathu-randu
+50,Number,2,aivattu,pannās,pannās,anpathu
+51,Number,2,aivattu ondu,ekāvan,ekāvan,anpathu-onpathu
+52,Number,2,aivattu eradu,bāvan,bāvan,anpathu-randu
+100,Number,2,nooru,śaṭa,sau,nooru
+red,Colour,2,kempu,lāl,laal,chuvanna
+green,Colour,2,hasiru,hira,hara,pachcha
+blue,Colour,2,neeli,nīlā,neela,nīla
+yellow,Colour,2,haladi,pīvala,pīla,mānja
+black,Colour,2,kappu,kāla,kāla,kār̥i
+white,Colour,2,biLi,pāṇḍhra,safed,vella
+grandfather,Person,2,ajja,ājja,dadaji,achan
+grandmother,Person,2,ajji,āji,dadima,amma
+friend,Person,2,geLati,maitra,dost,sakhā
+son,Person,2,maga,mulga,beta,makan
+daughter,Person,2,magalu,mulgi,beti,makal
+mother,Person,2,amma,āī,mā,amma
+father,Person,2,appa,bāBa,pita,achan
+Monday,Time,2,somavāra,somavāra,Somavār,yōmam
+Tuesday,Time,2,mangalavāra,mangalavāra,Mangalavār,cōḷḷivāram
+Wednesday,Time,2,budhavāra,budhavāra,Budhavār,budhan
+Thursday,Time,2,guruvar,guruvar,Guruvar,vyaazham
+Friday,Time,2,shukravāra,shukravāra,Shukravār,velli
+Saturday,Time,2,shanivāra,shanivāra,Shanivār,shaniku
+Sunday,Time,2,bhanuvāra,ravivāra,Ravivār,njayar
+month,Time,2,māse,mās,māh,māsam
+day,Time,2,dina,dina,din,divasam
+hour,Time,2,ghante,tāsA,ghante,manika
+much,Adjective,2,adhika,adhik,jyāda,adhikam
+more,Adjective,2,hecicx,jyādā,adhik,adhikam
+less,Adjective,2,kammi,kami,kam,kuraivu
+many,Adjective,2,ittavara,jast,bahut,peruvande
+small,Adjective,2,chikkava,lahaan,chhota,ccoṭta
+big,Adjective,2,dodda,mōṭhā,baṛa,periya
+I,Pronoun,2,naanu,mī,main,enik
+you,Pronoun,2,neenu,tumhī,tum,ningal
+he,Pronoun,2,avanu,tyā,vah,avan
+she,Pronoun,2,avaLu,ti,vah,ava
+it,Pronoun,2,adu,tē,yah,adu
+we,Pronoun,2,nāvu,āpanha,ham,naṅṅu
+you (plural,Pronoun,2,neevu,tumhē,tum sab,ningal
+they,Pronoun,2,avaru,tyāñcē,vah sab,avare
+in,Where,2,inda,madhye,me,kuṭambathile
+out,Where,2,horagade,bahirīn,baahar,vailku
+on,Where,2,mele,var,par,mele
+from,Where,2,hindha,pāsūna,se,kizhakkil
+to,Where,2,ge,nē,ko,kodukkuka
+of,Where,2,ninda,hyāñcā,kī,inu
+this,Where,2,idu,hyā,yah,idu
+that,Where,2,adu,tyā,vo,atu
+in front of,Where,2,samīpe,samorī,saamane,munilku
+behind,Where,2,hinde,magalīna,pichhe,munnilku
+left,Where,2,eDaga,dāvīnē,bāenē,idaykk
+right,Where,2,bali,udhara,dāynē,valaikk
+am,Pronoun,2,nānu,mī,hūņ,enikk
+is,Pronoun,2,ide,ahe,hai,at
+are,Pronoun,2,iru,āhē,hai,aa
+was,Pronoun,2,itthu,hōtā,thā,tannu
+were,Pronoun,2,aagidhe,hotē,thē,anu
+To have,Verb,2,ideya,āpalyā,hai,enikku undu
+To do,Verb,2,mADu,kara,karo,cheyyu
+To go,Verb,2,hogu,jaa,jao,pokam
+To come,Verb,2,banni,yē,aao,vā
+To see,Verb,2,nodu,pāha,dekho,kaanu
+To eat,Verb,2,tinu,khā,kha,vāyikka
+To drink,Verb,2,kudi,pī,piyo,kūḍikkuka
+is that so?,interjections,2,hōgalla,hyāt kāy ho,sach hai kya,athu vendayirikkunnilla
+okay,interjections,2,sāri,chāla,thīk,sari
+no,interjections,2,illa,nāhi,nahī,illa
+Understood/got it,interjections,2,artha aitu,samajhla,samajh gaya,manasilayi
+yes,interjections,2,houda,hō,hā,āṉo
+1:30 AM,Time,2,ondhu gaḍige,sava thē,aḍaī sava,onpathu-nōṭṭu
+2:30 AM,Time,2,eradu gaḍige,sava vī,do sava,iruppathu-nōṭṭu
+3:30 AM,Time,2,mūvu gaḍige,sava ī,teen sava,muppathu-nōṭṭu
+3:15 AM,Time,2,mūvu hāthu kāḷe,sava pāva,teen bārah,muppathu-paṯikkāl
+3:45 AM,Time,2,mūvu nalavattu gaḍige,sava pāchēs,teen chālīs,muppathu-paṯipūṅkuka
+60,Number,3,aravatthu,saṣṭhī,sau-saṭa,arubbaṭṭu
+61,Number,3,ondhu hattu ondu,ikkīs ikkīs,ikkīs-ekāvan,onpathu-ekkaṭṭu
+62,Number,3,ondhu hattu eradu,ikkīs bāvīs,ikkīs-bāvan,onpathu-randu
+70,Number,3,hutthu,sattar,sattar,ēṭuṁpattu
+71,Number,3,ondhu hattu ondu,ikattīs ikkīs,ikattīs-ikāvan,onpathu-onpathu-ekkaṭṭu
+72,Number,3,ondhu hattu eradu,ikattīs bāvīs,ikattīs-bāvan,onpathu-onpathu-randu
+80,Number,3,entu,ashiṭīs,ashiṭīs,entu
+81,Number,3,ondhu hattu ondu,ikanavē,ikanavē,onpathu-onpathu-ekkaṭṭu
+82,Number,3,ondhu hattu eradu,ibhanavē,ibhanavē,onpathu-onpathu-randu
+90,Number,3,tōmbattu,navvanavē,navvanavē,tompathu
+91,Number,3,ondhu hattu ondu,navvanavē ikkīs,navvanavē-ikāvan,tompathu-onpathu-ekkaṭṭu
+92,Number,3,ondhu hattu eradu,navvanavē bāvīs,navvanavē-bāvan,tompathu-onpathu-randu
+101,Number,3,ondhu hattu ondu,noṭu ikkīs,sau ikāvan,nooru-onpathu-ekkaṭṭu
+102,Number,3,ondhu hattu eradu,noṭu bāvīs,sau-bāvan,nooru-onpathu-randu
+Numbers,Number,3,sankhyegaLu,kōṇa,saṅkhya,saṅkhya
+200,Number,3,eraDu shatamanagaLu,dō śata,dō śata,raṇṭu-ayiram
+500,Number,3,aidu shatamanagaLu,pāchīs śata,pāchīs śata,añcu-ayiram
+1000,Number,3,ondhu sahasra,hazāra,hazāra,aṭayam
+1001,Number,3,ondhu sahasra ondu,hazāra ikkīs,hazāra-ikāvan,aṭayam-onpathu-ekkaṭṭu
+10000,Number,3,hatthu sahasragaLu,ikarōṇ,ikarōṇ,patta-ayiram
+100000,Number,3,ondhu lakh,lākha,lākh,aṭayam-aṭayam
+Color,Colour,3,baNNa,ranga,raṅg,vanna
+orange,Colour,3,kitthaḷu,nārangi,sāntarī,nārañci
+adult,Person,3,prāṇi,vr̥ddha,vr̥ddha,peruvande
+parent,Person,3,aṭṭe,pālak,mātā-pitā,janakar-ammaye
+baby,Person,3,moḍa,mulaga,bālak,kūṭtaṉ
+Time,Time,3,kāḷa,vela,samaya,kālam
+year ,Time,3,varsha,varṣa,saṁvatsara,varṣa
+week ,Time,3,hafte,saptāha,hafte,vāram
+minute,Time,3,nimisha,mēnuṭ,minaṭ,maniṭṭu
+good,Adjective,3,olleyadu,changlā,acchā,nalla
+bad,Adjective,3,kettadu,kēḷē,bura,napuṣṭu
+tasty,Adjective,3,ruchiyadu,swād,svādīṣṭ,rasadaramaṇiyayi
+spicy,Adjective,3,masālēdhārī,tikhat,masālēdāra,uṇaṭu
+salty,Adjective,3,uppusa,miṭhā,miṭhā,uppu
+sweet,Adjective,3,sihi,gōḍa,mīṭhā,madhuram
+small/little,Adjective,3,chikkavu,lahaan,chhota,ccoṭta
+slow,Adjective,3,nidra,mand,dheema,niṇakku
+fast,Adjective,3,veega,jaldi,jaldi,mēlaṭṭa
+To sleep,Verb,3,nidde māḍu,uthā,sōna,ninnuḍuka
+To speak,Verb,3,māṭu māḍu,bōlō,bōlō,parayuka
+To listen,Verb,3,kīḷu,suṇ,suno,vīkkaṇaṁkuka
+To hear,Verb,3,keḷu,suṇ,suno,keḷkaṇamāy
+To understand,Verb,3,artha māḍu,samajō,samajhō,ariyukaṁ
+To ask,Verb,3,prashne māḍu,pūchhō,pūchhō,praśnaṁ pūravukaṁ
+To answer,Verb,3,uttara māḍu,uttara,uttara,uttaramāruka
+To know,Verb,3,gotthu,mahiti,pata,ariyukaṁ
+To Think,Verb,3,aalochisu,vicārō,sochō,vichāraṁcāyuka
+To help,Verb,3,sahāya māḍu,madaṭō,madaṭō,saha-yōgāyuka
+To love,Verb,3,prīti māḍu,prem,pyār,snehika
+chief minister,Person,4,mukhya mantri,pramukha mantrī,mukhya mantri,mukhya mantri
+prime minister,Person,4,pradhāna mantri,pradhāna mantrī,pradhāna mantrī,pradhāna mantrī
+president,Person,4,pradhāna,pradhāna,pradhāna,pradhāna
+neighbor,Person,4,geḷavāra,paḍasaṭe,parosī,veṭṭuvan
+science,Concept,4,vijñāna,vaigñānika,vigyān,vijñānaṁ
+God,Concept,4,devaru,dēvata,bhagavān,īśa
+song,Concept,4,hādu,gīt,gīt,paṭalam
+music,Concept,4,saṅgīta,saṅgīta,saṅgīta,saṅgītam
+movie,Concept,4,chitrapata,chitrapaṭa,chalacitr,ciṭram
+art,Concept,4,kalā,kalā,kalā,kalā
+table,Physical Structure,4,meḷe,mej,mej,meḷ
+chair,Physical Structure,4,kūru,kūrī,kursī,kūraḷ
+bed,Physical Structure,4,taṇḍe,paḷaṅka,bistara,maṭṭaṇṭu
+window,Physical Structure,4,kiḍakūṇṭe,kiḍakūṇṭa,khanṭā,viṇṭām
+door,Physical Structure,4,bāgila,dvār,dvār,vaṭakku
+kitchen,Physical Structure,4,aṅgana,rasaṇālaya,aṅgan,maṭaṇam
+bathroom,Physical Structure,4,snānagaḻa,snaṅgaṇa,snānaṁgaḻa,snaṅgaṇa
+soap,Things,4,sāpu,sōpa,sāp,sāp
+book,Things,4,pustaka,pustaka,kitāba,pusthakam
+page,Things,4,paṭaṇe,paṭaṇa,paṭaṇa,paṭaṟam
+Body,Body,4,deha,śarīra,śarīr,dēha
+head,Body,4,tale,śir,sāra,tala
+neck,Body,4,gala,gala,gala,gala
+face,Body,4,mukha,chehara,mukha,mukha
+beard,Body,4,gallu,daḍaḷa,daḍhi,mukhacuṟṟam
+hair,Body,4,tūṅga,kēś,bāl,mudi
+eye,Body,4,kanna,kāṇ,akṣa,kanṇu
+mouth,Body,4,bāyi,bōla,mūha,vaṟaṭṭu
+lip,Body,4,muttāyi,ōḍhaṇi,hōṭa,oṭṭu
+nose,Body,4,mūṁḍe,nāk,nāk,mūṁḍ
+tooth,Body,4,hēnu,dāṁta,dāṁt,pambu
+ear,Body,4,kivi,kāṇ,kān,keṟṟam
+Country,Concept,4,deśa,deś,deś,deśa
+state,Concept,4,rājya,rājya,rājya,rāṣṭraṁ
+cold,Adjective,4,chāmu,sōna,sard,ciḷḷa
+warm,Adjective,4,gēsu,garam,garam,veḷḷam
+old,Adjective,4,hōdu,jhōp,purāna,paṭinju
+new,Adjective,4,hosa,navīn,naī,vaṭṭaṁ
+cool ,Adjective,4,sējaraṇa,ānand,shīt,ciḷḷa
+young,Adjective,4,yuva,tarun,yuva,yuvaka
