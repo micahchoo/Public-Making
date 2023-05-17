@@ -5,6 +5,7 @@ For things that need to be made in public and need collaborators, like half-bake
 3. [Pattern Library on Offline Stores soliciting personal data](How-Offline-Stores-get-your-Personal-Data-A-Pattern-Library.md)
    - This project shows a concern for data privacy and the creep of surveillance capitalism. The aim to research and compile examples of how brick-and-mortar stores collect customer data, the intent is to advocate for better practices.
 4. [Tech Translation - Alternatives from Etymology](Tech-Translation-Alternatives-from-Etymology.md)
+    - [CSV here](Tech-terms.csv) 
     - List of technology terms, how they came to be named and what do they actually do - for translators - if there is no similar metaphor in your language, to help you come up with better alternatives rather than using the loan word
     - an interest in language, communication, and the impact of technology on society. By exploring the etymology of technology terms, the aim is to provide better resources for translators and promote more culturally appropriate translations.
 6. [South Asia - Awesome Digital History:  A curated list of awesome things related to South Asian digital history](https://micahchoo.github.io/awesome-digital-history-South-Asia/)
