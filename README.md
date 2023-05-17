@@ -1,6 +1,6 @@
 # Public-Making
 For things that need to be made in public and need collaborators, like half-baked wikipedia ideas
-1. [Wikipedia Page on Dalit Art](Dalit%20Art.md)
+1. [Wikipedia Page on Dalit Art](Dalit Art.md)
    - I want to build a wikipedia page about dalit art or artists. Lots of the known information are current young artists for whom there may not be many independant sources
 3. [Pattern Library on Offline Stores soliciting personal data](How-Offline-Stores-get-your-Personal-Data-A-Pattern-Library.md)
    - This project shows a concern for data privacy and the creep of surveillance capitalism. The aim to research and compile examples of how brick-and-mortar stores collect customer data, the intent is to advocate for better practices.
