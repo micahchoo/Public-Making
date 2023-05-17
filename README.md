@@ -9,3 +9,5 @@ For things that need to be made in public, like half-baked wikipedia ideas
     This is a bunch of docs scraped from Sahitya Akademi that are detailed bios of some Indian authors. Most of them are from the time period 2006-09. The docs were merged. Archive.org should do OCR on it, which hopefully gives usable strings of text that can be used as sources on wikipedia. 
     -[Sahitya Akademi Author Bios  Sahitya Akademi  Free Download, Borrow, and Streaming  Internet Archive - archive.org](https://archive.org/details/SahityaAkademiAuthorBios/page/n127/mode/2up?q=confer)
     Need Help chapterizing.
+6. [if you learn 232 words and then listen to native speakers, you'll get a decent grasp on any language](232-words-to-learn-a-language.md)
+   - [CSV here](Tech%20terms.csv) 
