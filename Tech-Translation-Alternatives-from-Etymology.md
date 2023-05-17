@@ -1,8 +1,8 @@
----
+```
 tags: [software,computer,tech,terms,definitions,list,category,terminology]
 What: Understanding how to translate software words, by first showing etymology of the word itself
 Remarks: 90% legwork done by ChatGPT
----
+```
 
 > Computer terms from the software category:
 
