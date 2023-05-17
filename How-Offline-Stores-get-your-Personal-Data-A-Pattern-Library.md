@@ -1,7 +1,7 @@
 ---
 created: 2023-05-17T01:24:48 (UTC -07:00)
 source: https://khattamicah.xyz/how-offline-stores-get-your-personal-data-a-pattern-library
-what: a collection of stories around privacy creeping by physical stores in India
+what: a collection of stories around privacy creeping by physical stores in non-western countries
 who: anyone with experience
 ---
 
@@ -15,6 +15,7 @@ who: anyone with experience
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)  
 How Offline Stores get your Personal Data - A Pattern Library is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+This collaborative project is all about creating a collection of information on how physical stores collect personal data from customers. The examples given in the excerpt show different ways that stores do this and how they convince people to share their information. The main goal of the project is to make people aware of privacy issues and how stores collect their data when they shop offline. By collecting this information, the project wants to help people make informed decisions about whether or not to share their personal information. If you join this project as a collaborator, you would research and collect more examples of how stores collect data from customers. You might observe and study practices in your own area, talk to store owners or customers, and provide your insights on the effects of these practices. Your unique perspective and research would be valuable in expanding our understanding of these practices.
 
 **Table of Contents**
 
