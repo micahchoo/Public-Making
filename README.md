@@ -14,7 +14,7 @@ For things that need to be made in public and need collaborators, like half-bake
     - This is a bunch of docs scraped from Sahitya Akademi that are detailed bios of some Indian authors. Most of them are from the time period 2006-09. The docs were merged. Archive.org should do OCR on it, which hopefully gives usable strings of text that can be used as sources on wikipedia. Want to make detailed bios of Indian authors available to the public, which can potentially serve as valuable resources for researchers, students, and readers.
     -[Sahitya Akademi Author Bios  Sahitya Akademi  Free Download, Borrow, and Streaming  Internet Archive - archive.org](https://archive.org/details/SahityaAkademiAuthorBios/page/n127/mode/2up?q=confer)
 6. [if you learn 232 words and then listen to native speakers, you'll get a decent grasp on any language](232-words-to-learn-a-language.md)
-   - [CSV here](Tech%20terms.csv) 
+   - [CSV here](Tech-terms.csv) 
    - This project aims to create a collaborative language learning resource by compiling a list of transliterated translations of common words in various languages. By learning these translations, language learners can quickly acquire basic vocabulary and engage in simple conversations in different languages. Similar to fluent-forever's 625 words but adapted for indian languages
    - This project aims to make language learning more accessible by creating a collaborative resource of common words in various languages. 
 
