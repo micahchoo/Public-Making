@@ -15,3 +15,6 @@ For things that need to be made in public, like half-baked wikipedia ideas
     Need Help chapterizing.
 6. [if you learn 232 words and then listen to native speakers, you'll get a decent grasp on any language](232-words-to-learn-a-language.md)
    - [CSV here](Tech%20terms.csv) 
+   - This project aims to create a collaborative language learning resource by compiling a list of transliterated translations of common words in various languages. By learning these translations, language learners can quickly acquire basic vocabulary and engage in simple conversations in different languages. Similar to fluent-forever's 625 words but adapted for indian languages
+
+
