@@ -1,5 +1,5 @@
 # Public-Making
-For things that need to be made in public, like half-baked wikipedia ideas
+For things that need to be made in public and need collaborators, like half-baked wikipedia ideas
 1. [Wikipedia Page on Dalit Art](Dalit%20Art.md)
    - I want to build a wikipedia page about dalit art or artists
 3. [Pattern Library on Offline Stores soliciting personal data](How-Offline-Stores-get-your-Personal-Data-A-Pattern-Library.md)
