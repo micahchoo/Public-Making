@@ -1,9 +1,9 @@
----
+```
 What: Wikipedia Article - Dalit Art
 Who: Anyone who has interest in #Dalit, #art, #India
 When: Eventually
 What needs to be done: sources, writing, adding artists
----
+```
 
 # References
 
