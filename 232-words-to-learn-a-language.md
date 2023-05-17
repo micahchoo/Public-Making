@@ -5,8 +5,12 @@ work: transliterations from ChatGPT - need corrections, adding new terms, adding
 ---
 # Collaborative Language Learning for Conversational Proficiency
 
-This project aims to create a collaborative language learning resource by compiling a list of transliterated translations of common words in various languages. By learning these translations, language learners can quickly acquire basic vocabulary and engage in simple conversations in different languages.
+This project aims to create a collaborative language learning resource by compiling a list of transliterated translations of common words in various languages. By learning these translations, language learners can quickly start to acquire basic vocabulary when augmented with listening to other sources like the news in that language.
 Similar to fluent-forever's 625 words but adapted for indian languages
+
+[csv here](232-words-to-learn-a-language.md) 
+
+
 ## Strengths:
 1. Accessibility: The project provides an accessible entry point for language learners by focusing on commonly used words, allowing them to quickly grasp fundamental vocabulary.
 2. Versatility: By including translations in multiple languages, the project accommodates learners interested in various language pairs.
