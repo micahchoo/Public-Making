@@ -1,8 +1,8 @@
----
+```
 what: list of 232 words to speak a language
 who: anyone learning non-western languages (i think)
 work: transliterations from ChatGPT - need corrections, adding new terms, adding sources to observe spoken language
----
+```
 # Collaborative Language Learning for Conversational Proficiency
 
 This project aims to create a collaborative language learning resource by compiling a list of transliterated translations of common words in various languages. By learning these translations, language learners can quickly start to acquire basic vocabulary when augmented with listening to other sources like the news in that language.
