@@ -17,7 +17,7 @@ This table is really helpful for creating and understanding computer terms in la
 For example, if we want to explain the word "database" to someone who doesn't speak English well, we can describe it as a place where electronic information is stored and organized. We can use words that already exist in their language, like a library or a special place for keeping things.  Similarly, for the idea of "drag and drop," we can use words that describe moving something from one place to another, like picking up and putting down an object. By using these simpler words, we can help non-native English speakers understand how these things work on a computer.
 
 # See Also
-- (A history of metaphors for the internet)[https://www.theverge.com/2023/5/18/23728271/history-of-metaphors-for-the-internet?]
+- [A history of metaphors for the internet](https://www.theverge.com/2023/5/18/23728271/history-of-metaphors-for-the-internet?)
 
 
 # The Table
