@@ -9,19 +9,18 @@ Remarks: 90% legwork done by ChatGPT
 This table is really helpful for creating and understanding computer terms in languages other than English, especially for places that are not highly industrialized. It shows the history and meaning of the words used in computing, which helps translators find the right words to use. The table also explains how each term is connected to the things they represent in computing, making it easier to explain complex ideas in simple words. For example, a "backup" is like a support or reserve copy, and a "file" is like a container for information. The table can also help create new words for concepts that don't exist in a language yet. It's important to consider cultural sensitivity when translating these terms, as some words might have different meanings or be seen as negative in different cultures. This table can be used in educational programs to help people learn about computing, and it's especially useful for regions where these concepts are not commonly known.
 
 1. **Making Words Understandable in Different Languages:** Understanding where words come from can help us find the right words in other languages. For example, if we want to translate the word "backup" into another language, we can look for words that mean "providing support or having something extra".
-
 2. **Explaining Complex Ideas in Simple Terms:** This table helps us understand how different computing things work. 
-
 3. **Creating New Words for New Ideas:** Sometimes there are no words for certain computing things in other languages. We can use the information in this table to create new words. For example, for the word "software," we can find words that mean "instructions" or "guidance" in the other language and combine them with a word that means the opposite of physical things.
-
 4. **Respecting Different Cultures:** It's important to be careful with words and phrases that might have different meanings in other cultures. For example, the word "crash" might sound scary or dangerous in another language. By understanding what it really means in computing (when a program suddenly stops working), we can find better words that don't have negative meanings.
-
 5. **Learning and Teaching:** This table can be used to help people learn about computing in places where English is not the main language. By showing the origins and meanings of words, it can help people understand these ideas better.
 
-For example, if we want to explain the word "database" to someone who doesn't speak English well, we can describe it as a place where electronic information is stored and organized. We can use words that already exist in their language, like a library or a special place for keeping things. 
+For example, if we want to explain the word "database" to someone who doesn't speak English well, we can describe it as a place where electronic information is stored and organized. We can use words that already exist in their language, like a library or a special place for keeping things.  Similarly, for the idea of "drag and drop," we can use words that describe moving something from one place to another, like picking up and putting down an object. By using these simpler words, we can help non-native English speakers understand how these things work on a computer.
 
-Similarly, for the idea of "drag and drop," we can use words that describe moving something from one place to another, like picking up and putting down an object. By using these simpler words, we can help non-native English speakers understand how these things work on a computer.
+# See Also
+- (A history of metaphors for the internet)[https://www.theverge.com/2023/5/18/23728271/history-of-metaphors-for-the-internet?]
 
+
+# The Table
 
 ---
 
